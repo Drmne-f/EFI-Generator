@@ -10,7 +10,7 @@
 - تحميل الكيستات الأساسية (Lilu, VirtualSMC, AppleALC, WhateverGreen).
 - تحميل وتحويل ملفات SSDT (مثل SSDT-EC, SSDT-AWAC, وغيرها).
 - دعم كامل لأنظمة Windows و Linux.
-- تأثيرات مرئية متحركة (Animated UI).
+
 
 ## المتطلبات
 
